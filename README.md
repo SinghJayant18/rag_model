@@ -1,6 +1,6 @@
 # RAG Model with LangChain & ChromaDB
 
-## 📌 Introduction
+##  Introduction
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, **ChromaDB**, and **LLMs**.  
 It demonstrates how to load external data, clean and chunk it, generate embeddings, store them in a vector database, and retrieve relevant context for question answering.
 
@@ -8,12 +8,11 @@ The notebook is designed to run in **Google Colab** and focuses on practical RAG
 
 ---
 
-## 📂 Project Structure
 
 
----
 
-## 🚀 Features
+
+##  Features
 - Web-based document loading
 - Text cleaning and recursive chunking
 - Embedding generation using HuggingFace models
@@ -23,7 +22,7 @@ The notebook is designed to run in **Google Colab** and focuses on practical RAG
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+##  Tech Stack & Dependencies
 - Python 3.8+
 - LangChain
 - LangChain Community
@@ -35,7 +34,7 @@ The notebook is designed to run in **Google Colab** and focuses on practical RAG
 
 ---
 
-## 📦 Installation
+##  Installation
 Run the following commands inside your environment or Colab notebook:
 
 ```bash
